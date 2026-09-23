@@ -1,0 +1,39 @@
+# Calm Blocks — Privacy Policy
+
+_Last updated: 2026-09-23_
+
+Calm Blocks ("the app") is a single-player puzzle game. This policy explains what happens to
+information when you play.
+
+## What the app itself collects
+**Nothing.** The app has no accounts, no sign-in and no servers of its own. Your best score,
+game progress and settings (sound, vibration) are stored **only on your device**. Uninstalling
+the app deletes them.
+
+## Advertising (Google AdMob)
+The app is free and shows ads provided by **Google AdMob**, a service of Google LLC. To show and
+measure ads, the Google Mobile Ads SDK may collect and process:
+
+- your device's **advertising ID** (you can reset or delete it in your Android settings),
+- **approximate location** derived from your IP address,
+- information about how you interact with ads, and diagnostic information about the SDK.
+
+Google uses this information as described in its policies:
+- How Google uses information from apps that use its services: https://policies.google.com/technologies/partner-sites
+- Google Privacy Policy: https://policies.google.com/privacy
+
+## Your choices (consent)
+If you are in the European Economic Area, the United Kingdom, Switzerland, or a US state with
+privacy laws, the app asks for your consent choices using **Google's User Messaging Platform
+(UMP)** before personalised ads are requested. You can change your choice at any time in
+**Settings → Privacy options**. You can also opt out of personalised ads for all apps in your
+device settings (Google → Ads).
+
+## Children
+The app is intended for adults and is not directed at children under 13.
+
+## Changes
+If this policy changes, the updated version will be posted at this address with a new date.
+
+## Contact
+Questions about this policy: <CONTACT_EMAIL>
